@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 16dbe333ab71e3d4c96c6024fc74587a, type: 3}
+  m_Name: Upgrade
+  m_EditorClassIdentifier: 
+  StartSpeedValue: 0a000000140000001e00000028000000320000003c00000046000000500000005a00000064000000
+  boostSpeedValue: 0f0000001900000028000000320000003c00000046000000500000005a000000640000006e000000
+  torqueSpeedValue: 0400000005000000060000000700000008000000090000000a0000000b0000000c0000000d000000
+  totalGoldAmount: 25
+  totalUpgrade: 0
+  BaseSpeedSliderLevel: 1
+  BoostSpeedSliderLevel: 1
+  TorqueSliderLevel: 1
